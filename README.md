@@ -4,7 +4,7 @@ Used to get cursor position from a dui
 
 ## Usage
 Open website: `/opendui (url) (*screen resolution)`
-* = optional
+\* = optional
 e.g. `/opendui https://google.com/ 1280 720` - 1280 being screen width and 720 screen height
 
 Close website: `/closedui` - you must run this command if you already have a page open before you can open another one.
